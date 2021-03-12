@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhilipsHue.Api", "PhilipsHue.Api\PhilipsHue.Api.csproj", "{85DF9534-8B17-49FF-92DD-052A7FC47C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhilipsHue.Api.Tests", "PhilipsHue.Api.Tests\PhilipsHue.Api.Tests.csproj", "{3FDBD468-D125-4D00-851C-0B28C5F8ED09}"
+	ProjectSection(ProjectDependencies) = postProject
+		{85DF9534-8B17-49FF-92DD-052A7FC47C70} = {85DF9534-8B17-49FF-92DD-052A7FC47C70}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85DF9534-8B17-49FF-92DD-052A7FC47C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DF9534-8B17-49FF-92DD-052A7FC47C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DF9534-8B17-49FF-92DD-052A7FC47C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DF9534-8B17-49FF-92DD-052A7FC47C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDBD468-D125-4D00-851C-0B28C5F8ED09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDBD468-D125-4D00-851C-0B28C5F8ED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDBD468-D125-4D00-851C-0B28C5F8ED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDBD468-D125-4D00-851C-0B28C5F8ED09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAFEEFC-A70E-4BAA-B81A-7AACF347D718}
+	EndGlobalSection
+EndGlobal

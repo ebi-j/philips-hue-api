@@ -1,0 +1,12 @@
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\bin\Debug\net5.0\PhilipsHue.Api.deps.json
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\bin\Debug\net5.0\PhilipsHue.Api.dll
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\bin\Debug\net5.0\ref\PhilipsHue.Api.dll
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\bin\Debug\net5.0\PhilipsHue.Api.pdb
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\obj\Debug\net5.0\PhilipsHue.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\obj\Debug\net5.0\PhilipsHue.Api.AssemblyInfoInputs.cache
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\obj\Debug\net5.0\PhilipsHue.Api.AssemblyInfo.cs
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\obj\Debug\net5.0\PhilipsHue.Api.csproj.CoreCompileInputs.cache
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\obj\Debug\net5.0\PhilipsHue.Api.dll
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\obj\Debug\net5.0\ref\PhilipsHue.Api.dll
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\obj\Debug\net5.0\PhilipsHue.Api.pdb
+C:\Users\ebi\Documents\Projects\PhilipsHueApi\PhilipsHue\PhilipsHue.Api\obj\Debug\net5.0\PhilipsHue.Api.csprojAssemblyReference.cache
